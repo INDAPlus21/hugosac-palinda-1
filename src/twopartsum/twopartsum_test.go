@@ -1,8 +1,6 @@
 package main
 
-import (
-	"testing"
-)
+import "testing"
 
 // test that ConcurrentSum sums an even-length array correctly
 func TestSumConcurrentCorrectlySumsEvenArray(t *testing.T) {
